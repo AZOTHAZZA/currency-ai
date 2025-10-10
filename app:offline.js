@@ -1,0 +1,1 @@
+export function checkOnlineStatus(){ return navigator.onLine; }
